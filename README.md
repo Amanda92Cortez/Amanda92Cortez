@@ -12,7 +12,7 @@
 <p>👨‍🎓 Graduated in Computer Engineering at the University of Taubaté.</p> 
 <p>📚 Attending Post-Graduation Lato Sensu - Specialization in Software Quality Engineering at Senac Universitário EAD.</p>
 <p>🎯 In my free time I like to play video games (🎮), watch sports (⚽️), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵), help around the house (🏠) and study (📚).</p>
-<p>💪 I am a Front-End beginner at this moment I am deepening my knowledge (💻)</p> 
+<p>💪 I am a Full Stack beginner at this moment I am deepening my knowledge (💻)</p> 
 
 
 <h3 align="left">💻 I have experience:</h3>
