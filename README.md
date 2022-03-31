@@ -29,7 +29,7 @@
 
 <h3 align="left">💻 Atualmente estou aprendendo:</h3>
 
-<img alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
+<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
 
 
 <div style="display: inline_block"><br>
