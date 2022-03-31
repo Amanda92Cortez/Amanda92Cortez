@@ -20,6 +20,8 @@
 <p>💪 I am a Full Stack beginner at this moment I am deepening my knowledge (💻)</p> 
 
 
+<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
+
 <div style="display: inline_block"><br>
   <h3 align="left">💻 Tenho experiência:</h3>
     <img alt="Dai-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
@@ -28,9 +30,6 @@
   </div>
 
 <h3 align="left">💻 Atualmente estou aprendendo:</h3>
-
-<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
-
 
 <div style="display: inline_block"><br>
     <img alt="Cortez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
