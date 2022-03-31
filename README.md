@@ -1,9 +1,8 @@
 <div align="center">
-  <img align="left" height="100" src="https://i.imgur.com/x0gKW39.gif"/>
   <h1>✨ Oi 👋, sou Amanda Cortez ✨</h1>
 </div> 
 
-## 
+#
 
 <h3 align="left">Connect with me:</h3>
 
