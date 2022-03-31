@@ -53,4 +53,4 @@
  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 
-Data Atualização: 22/02/2022 às 13h30min
+Data Atualização: 31/03/2022 às 13h20min
