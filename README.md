@@ -27,9 +27,7 @@
 
 <h3 align="left">💻 I'm currently learning:</h3>
 
-<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/daiannecordeiro/daiannecordeiro/main/Gif%20personalizado.gif"/>
-
-<img src="https://media1.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=ecf05e47x2fyi2ywdxf76z9qu6svsr0wl4uz8pf0fdzxsnxt&rid=giphy.gif&ct=g" width="280" height="250"/>
+<img alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
