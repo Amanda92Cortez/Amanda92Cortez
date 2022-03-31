@@ -18,16 +18,21 @@
 <p>💪 I am a Full Stack beginner at this moment I am deepening my knowledge (💻)</p> 
 
 
-<h3 align="left">💻 I have experience:</h3>
-
 <div align="center" style="display: inline_block"><br>
+  <h3 align="left">💻 Tenho experiência:</h3>
     <img alt="Dai-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img alt="Dai-visual-studio-code" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
 
+**
 
-
+<div align="center">
+  <br>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact&langs_count=7&theme=radical"/>
+ <a href="https://github.com/daiannecordeiro">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   
 
 
 <h3 align="left">💻 I'm currently learning:</h3>
