@@ -1,5 +1,3 @@
-<h1 align="center">✨ Oi 👋, sou Amanda Cortez ✨ </h1>
-
 <div align="center">
   <img align="left" height="100" src="https://i.imgur.com/x0gKW39.gif"/>
   <h1>✨ Oi 👋, sou Amanda Cortez ✨</h1>
