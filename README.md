@@ -6,10 +6,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/amanda92cortez)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/amandacortez92/)
+<div align="center" style="display: inline_block"> 
+  <a href = "mailto:amanda_cortez_2012@hotmail.com"><img height="22" src="https://logincdn.msauth.net/shared/1.0/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/amandacortez92/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-## Abaout me 
+## Sobre mim
 
 <p>🏥 I work as a Systems Analyst at the Hospital. </p> 
 <p>👨‍🎓 Graduated in Computer Engineering at the University of Taubaté.</p> 
