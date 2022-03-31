@@ -27,6 +27,8 @@
 
 <h3 align="left">💻 I'm currently learning:</h3>
 
+<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/daiannecordeiro/daiannecordeiro/main/Gif%20personalizado.gif"/>
+
 <img src="https://media1.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=ecf05e47x2fyi2ywdxf76z9qu6svsr0wl4uz8pf0fdzxsnxt&rid=giphy.gif&ct=g" width="280" height="250"/>
 
 <p align="left"> 
