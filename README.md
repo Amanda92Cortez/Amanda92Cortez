@@ -25,16 +25,6 @@
     <img alt="Dai-visual-studio-code" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
 
-**
-
-<div align="center">
-  <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact&langs_count=7&theme=radical"/>
- <a href="https://github.com/daiannecordeiro">
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   
-
-
 <h3 align="left">💻 I'm currently learning:</h3>
 
 <img src="https://media1.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=ecf05e47x2fyi2ywdxf76z9qu6svsr0wl4uz8pf0fdzxsnxt&rid=giphy.gif&ct=g" width="280" height="250"/>
@@ -56,7 +46,11 @@
 
 # 📈 GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact)](https://github.com/amanda92cortez/github-readme-stats)
+<div align="center">
+  <br>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact&langs_count=7&theme=radical"/>
+ <a href="https://github.com/daiannecordeiro">
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 
 Data Atualização: 22/02/2022 às 13h30min
