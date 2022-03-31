@@ -4,7 +4,7 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 
 <div align="center" style="display: inline_block"> 
   <a href = "mailto:amanda_cortez_2012@hotmail.com"><img height="22" src="https://logincdn.msauth.net/shared/1.0/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg" target="_blank"></a>
@@ -13,11 +13,11 @@
 
 ## Sobre mim
 
-<p>🏥 I work as a Systems Analyst at the Hospital. </p> 
-<p>👨‍🎓 Graduated in Computer Engineering at the University of Taubaté.</p> 
-<p>📚 Attending Post-Graduation Lato Sensu - Specialization in Software Quality Engineering at Senac Universitário EAD.</p>
-<p>🎯 In my free time I like to play video games (🎮), watch sports (⚽️), watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵), help around the house (🏠) and study (📚).</p>
-<p>💪 I am a Full Stack beginner at this moment I am deepening my knowledge (💻)</p> 
+<p>🏥 Trabalho como Analista de Sistemas no Hospital. </p> 
+<p>👨‍🎓 Graduada em Engenharia de Computação pela Universidade de Taubaté.</p> 
+<p>📚 Cursando Pós-Graduação Lato Sensu - Especialização em Engenharia de Qualidade de Software no Senac Universitário EAD.</p>
+<p>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠 ) e estudar (📚).</p>
+<p>💪 Sou iniciante em Full Stack neste momento estou aprofundando meus conhecimentos (💻)</p> 
 
 
 <img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20personalizado.gif"/>
@@ -39,16 +39,11 @@
     <img alt="Cortez-bootstrap" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img alt="Cortez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Cortez-reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img alt="Cortez-node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="Cortez-angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
+  <img alt="Cortez-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
+  <img alt="Cortez-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </div>
-
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
-
 
 
 # 📈 GitHub Status
