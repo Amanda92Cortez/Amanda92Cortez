@@ -20,7 +20,7 @@
 <p>💪 Sou iniciante em Full Stack neste momento estou aprofundando meus conhecimentos (💻)</p> 
 
 
-<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/Gif%20programando.gif"/>
+<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/programando.gif"/>
 
 <div style="display: inline_block"><br>
   <h3 align="left">💻 Tenho experiência:</h3>
