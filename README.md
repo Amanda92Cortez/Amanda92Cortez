@@ -16,7 +16,8 @@
 <p>🏥 Trabalho como Analista de Sistemas no Hospital. </p> 
 <p>👨‍🎓 Graduada em Engenharia de Computação pela Universidade de Taubaté.</p> 
 <p>📚 Pós-Graduação Lato Sensu - Especialização em Engenharia de Qualidade de Software no Senac Universitário EAD.</p>
-<p>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠 ) e estudar (📚).</p>
+<p>📚 Pós-Graduação Lato Sensu - Especialização em Gestão de Big Data e Business Analytics no Senac Universitário EAD (Andamento).</p>
+<p>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠),  práticar funcional de futebol (⚽️) e estudar (📚).</p>
 <p>💪 Sou iniciante em Full Stack neste momento estou aprofundando meus conhecimentos (💻)</p> 
 
 
