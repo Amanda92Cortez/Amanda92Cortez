@@ -21,9 +21,7 @@
 <p>💪 Sou iniciante em Full Stack neste momento estou aprofundando meus conhecimentos (💻)</p> 
 
 
-<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/programando_01.gif"/>
-
-![GifPersonalidade_02](https://github.com/Amanda92Cortez/Amanda92Cortez/assets/19363871/d4f5461a-3a1c-42ea-bed5-de249a0994a4)
+<img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/GifPersonalidade_02.gif"/>
 
 
 <div style="display: inline_block"><br>
