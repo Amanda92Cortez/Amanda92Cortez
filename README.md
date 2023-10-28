@@ -23,6 +23,9 @@
 
 <img align="right" alt="Ilustradai-pic" width="400" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/programando_01.gif"/>
 
+![GifPersonalidade_02](https://github.com/Amanda92Cortez/Amanda92Cortez/assets/19363871/d4f5461a-3a1c-42ea-bed5-de249a0994a4)
+
+
 <div style="display: inline_block"><br>
   <h3 align="left">💻 Tenho experiência:</h3>
     <img alt="Dai-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
