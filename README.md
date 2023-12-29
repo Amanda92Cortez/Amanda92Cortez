@@ -1,60 +1,60 @@
-<div align="center">
-  <h1>✨ Oi 👋, sou Amanda Cortez ✨</h1>
-</div> 
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm <b>Amanda Cortez</b></h1>
+<h4 align="left">🏥 Trabalho como Analista de Sistemas no Hospital.</h4>
+<h4 align="left">👨‍🎓 Graduada em Engenharia de Computação pela Universidade de Taubaté.</h4>
+<h4 align="left">📚 Pós-Graduação Lato Sensu - Especialização em Engenharia de Qualidade de Software no Senac Universitário EAD.</h4>
+<h4 align="left">📚 Pós-Graduação Lato Sensu - Especialização em Gestão de Big Data e Business Analytics no Senac Universitário EAD (Andamento).</h4>
+<h4>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠),  práticar funcional de futebol (⚽️) e estudar (📚).</h4>
+<h4>💪 Sou iniciante em Full Stack, neste momento estou aprofundando meus conhecimentos (💻)</h4>
 
-#
-
-<h3 align="left">Conecte-se comigo:</h3>
-
-<div align="center" style="display: inline_block"> 
-  <a href = "mailto:amanda_cortez_2012@hotmail.com"><img height="22" src="https://logincdn.msauth.net/shared/1.0/content/images/microsoft_logo_ee5c8d9fb6248c938fd0dc19370e90bd.svg" target="_blank"></a>
- <a href="https://www.linkedin.com/in/amandacortez92/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-## Sobre mim
-
-<p>🏥 Trabalho como Analista de Sistemas no Hospital. </p> 
-<p>👨‍🎓 Graduada em Engenharia de Computação pela Universidade de Taubaté.</p> 
-<p>📚 Pós-Graduação Lato Sensu - Especialização em Engenharia de Qualidade de Software no Senac Universitário EAD.</p>
-<p>📚 Pós-Graduação Lato Sensu - Especialização em Gestão de Big Data e Business Analytics no Senac Universitário EAD (Andamento).</p>
-<p>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠),  práticar funcional de futebol (⚽️) e estudar (📚).</p>
-<p>💪 Sou iniciante em Full Stack neste momento estou aprofundando meus conhecimentos (💻)</p> 
-
+</br>
 
 <img align="right" alt="Ilustradai-pic" width="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/GifPersonalidade_02.gif"/>
 
-
-<div style="display: inline_block"><br>
-  <h3 align="left">💻 Tenho experiência:</h3>
-    <img alt="Dai-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img alt="Dai-visual-studio-code" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  </div>
-
-<h3 align="left">💻 Atualmente estou aprendendo:</h3>
-
-<div style="display: inline_block"><br>
-    <img alt="Cortez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Cortez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Cortez-visual-studio-code" height="33" width="33" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
-    <img alt="Cortez-java-script" height="33" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img alt="Cortez-bootstrap" height="31" width="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-    <img alt="Cortez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Cortez-reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img alt="Cortez-node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img alt="Cortez-angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
-  <img alt="Cortez-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
-  <img alt="Cortez-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </div>
+### Trabalho com:
+![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📈 GitHub Status
-
-<div align="center">
-  <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact&langs_count=7&theme=radical"/>
- <a href="https://github.com/amanda92cortez">
- <img height="130em" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+### Básico:
+![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
 
 
-Data Atualização: 08/08/2023 às 16h40min
+### Estudando:
+![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### Meta para estudo:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+#
+
+
+<div>
+    <table>
+    	<tr>
+    		<td>
+    			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda92cortez&layout=compact&langs_count=7&theme=radical"/>
+    		</td>
+    		<td>
+    			<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=amanda92cortez&show_icons=true&theme=dracula&hide_border=true"/>
+    		</td>
+    	</tr>
+    </table>
+</div>
+
+#
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amandacortez92/)](https://www.linkedin.com/in/thiagoteberga/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:amanda_cortez_2012@hotmail.com)](mailto:amanda_cortez_2012@hotmail.com)
