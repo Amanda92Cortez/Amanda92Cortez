@@ -1,10 +1,10 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm <b>Amanda Cortez</b></h1>
-<h4 align="left">🏥 Trabalho como Analista de Sistemas no Hospital.</h4>
+<h4 align="left">🏥 Trabalho como Analista Testes.</h4>
 <h4 align="left">👨‍🎓 Graduada em Engenharia de Computação pela Universidade de Taubaté.</h4>
 <h4 align="left">📚 Pós-Graduação Lato Sensu - Especialização em Engenharia de Qualidade de Software no Senac Universitário EAD.</h4>
-<h4 align="left">📚 Pós-Graduação Lato Sensu - Especialização em Gestão de Big Data e Business Analytics no Senac Universitário EAD (Andamento).</h4>
+<h4 align="left">📚 Pós-Graduação Lato Sensu - Especialização em Gestão de Big Data e Business Analytics no Senac Universitário EAD.</h4>
 <h4>🎯 No meu tempo livre gosto de jogar videogame (🎮), assistir esportes (⚽️), assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵), ajudar em casa (🏠),  práticar funcional de futebol (⚽️) e estudar (📚).</h4>
-<h4>💪 Sou iniciante em Full Stack, neste momento estou aprofundando meus conhecimentos (💻)</h4>
+<h4>💪 Sou iniciante na área Quality Engineering, neste momento estou aprofundando meus conhecimentos (💻)</h4>
 
 </br>
 
@@ -27,18 +27,11 @@
 
 
 ### Estudando:
-![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Cypress](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/7s5okt/develop&style=flat&logo=cypress)
 
 
 ### Meta para estudo:
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
- ...
 
 
 # 📈 GitHub Status
