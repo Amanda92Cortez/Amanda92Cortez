@@ -10,9 +10,11 @@
 
 <img align="right" alt="Ilustradai-pic" width="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/amanda92cortez/amanda92cortez/main/GifPersonalidade_02.gif"/>
 
-### Trabalho com:
+### Experiência com:
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![BDD](https://img.shields.io/badge/bdd-17202C?style=for-the-badge&logo=bdd&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -31,7 +33,6 @@
 
 
 ### Meta para estudo:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 # 📈 GitHub Status
