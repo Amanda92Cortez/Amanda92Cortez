@@ -29,11 +29,11 @@
 
 
 ### Estudando:
-![Cypress](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/7s5okt/develop&style=flat&logo=cypress)
-
+- Certificação CTFL
+- Relação da área QA
 
 ### Meta para estudo:
-
+Minha meta é tirar primeira certificação ISTQB® Certified Tester Foundation Level (CTFL)
 
 # 📈 GitHub Status
 
