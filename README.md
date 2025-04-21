@@ -33,11 +33,6 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white)
 
-
-### Estudando:
-- Certificação CTFL
-- Relação da área QA
-
 ### Meta para estudo:
 Minha meta é tirar primeira certificação ISTQB® Certified Tester Foundation Level (CTFL)
 
